@@ -93,10 +93,11 @@
 	파일리턴 기본경로  : src/main/resources/static/파일...
 	
 8. JSP
-#  mvc:
-#    view:
-#      prefix: /WEB-INF/views 컨트롤러가 리턴할때 앞에 붙여주는것
-#      suffix: .jsp 컨트롤러가 리턴할때 뒤에 붙여주는것
+  mvc:
+    view:
+      prefix: /WEB-INF/views 컨트롤러가 리턴할때 앞에 붙여주는것
+      suffix: .jsp 컨트롤러가 리턴할때 뒤에 붙여주는것
+      
 	src/main/webapp/WEB-INF/views/JSP파일...
 
 	jasper dependence 설정
