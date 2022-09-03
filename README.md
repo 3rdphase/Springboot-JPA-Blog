@@ -1,5 +1,8 @@
 # Springboot-JPA-Blog
 
+참고 : https://getinthere.tistory.com/16
+
+
 1. jar파일 설치 => 커멘드에서 java -jar ???.jar
     1) eclipse에서 자바파일 실행 => ctrl + f11
     2) 필요없는 import 삭제 => Ctrl+Shift+O
