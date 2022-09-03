@@ -24,3 +24,23 @@
 
 ![image](https://user-images.githubusercontent.com/49021504/188260243-2db7a96e-796f-4731-b884-4f1474569deb.png)
 ![image](https://user-images.githubusercontent.com/49021504/188260251-b2d14a9d-e347-45ca-a00d-90c173f971a6.png)
+
+4. dependence => project-pom.xml-dependences에 추가
+	
+	<!-- 시큐리티 태그 라이브러리 -->
+	<dependency>
+	  <groupId>org.springframework.security</groupId>
+	  <artifactId>spring-security-taglibs</artifactId>
+	</dependency>
+
+	<!-- JSP 템플릿 엔진 -->
+	<dependency>
+	  <groupId>org.apache.tomcat.embed</groupId>
+	  <artifactId>tomcat-embed-jasper</artifactId>
+	</dependency>
+
+	<!-- JSTL -->
+	<dependency>
+	  <groupId>javax.servlet</groupId>
+	  <artifactId>jstl</artifactId>
+	</dependency>
