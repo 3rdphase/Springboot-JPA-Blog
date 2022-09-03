@@ -83,4 +83,8 @@
 	[user]
 		name = 아이디
 		email = 이메일주소
+		
+	현재 저장소의 user, email 설정값을 확인하는 방법
+	$ git config user.name	
+	$ git config user.email
 
