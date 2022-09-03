@@ -16,3 +16,8 @@
     4) STS4 Lombok 플로그인설치
 	      https://projectlombok.org/download 다운로드
 	      해당폴더 마우스 우측 Git Bash Hear-java -jar Lombok.jar-sts실행파일 선택-설치
+
+3. Spring Starter Project
+
+![image](https://user-images.githubusercontent.com/49021504/188260243-2db7a96e-796f-4731-b884-4f1474569deb.png)
+![image](https://user-images.githubusercontent.com/49021504/188260251-b2d14a9d-e347-45ca-a00d-90c173f971a6.png)
