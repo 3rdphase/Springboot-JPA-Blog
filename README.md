@@ -74,3 +74,13 @@
 			username: cos
 			password: cos1234
 5. pom.xml에서 jpa, mysql 관련 주석풀고 서버 재시작
+
+6. git
+	기본값으로 사용할 Git 사용자 이름과 이메일 설정(global 옵션)
+	$ git config --global user.name "아이디"
+	$ git config --global user.email 이메일주소
+	$ cat ~/.gitconfig
+	[user]
+		name = 아이디
+		email = 이메일주소
+
