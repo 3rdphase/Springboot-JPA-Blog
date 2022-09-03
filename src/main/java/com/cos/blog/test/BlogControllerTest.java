@@ -10,6 +10,6 @@ public class BlogControllerTest {
 	
 	@GetMapping(path = "/test/hello")
 	public String hello() {
-		return "Hello World!!----";
+		return "Hello World!!----11";
 	}
 }
