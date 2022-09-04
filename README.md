@@ -88,4 +88,16 @@
 	$ git config user.name	
 	$ git config user.email
 
-이벼주ㅜㅜㅜㅜ
+7. 스프링 일반
+	src/main/resources/static 폴더는 브라우저가 인식할수있는 정적파일만 위치한다. ex) html, js, 이미지 등 단, jsp 파일은 찾아는주지만 파싱이 안됨
+	파일리턴 기본경로  : src/main/resources/static/파일...
+	
+8. JSP
+  mvc:
+    view:
+      prefix: /WEB-INF/views 컨트롤러가 리턴할때 앞에 붙여주는것
+      suffix: .jsp 컨트롤러가 리턴할때 뒤에 붙여주는것
+      
+	src/main/webapp/WEB-INF/views/JSP파일...
+
+	jasper dependence 설정
